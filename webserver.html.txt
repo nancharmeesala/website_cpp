@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello, World!</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+</body>
+</html>
+
+This HTML file contains a <h1> element that displays the "Hello, World!" message.
+
+Now, run your C++ server code (the one I provided earlier).
+
+Open your web browser and visit http://localhost:8080 (assuming your server is running on port 8080). You should see the "Hello, World!" message displayed on the webpage.
+
+That's it! Your C++ server is now serving a basic HTML webpage with the "Hello, World!" message. You can expand and customize the HTML content to create more complex webpages.
